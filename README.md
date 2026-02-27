@@ -72,11 +72,11 @@ PEVI is a real-time environmental risk assessment platform that combines air qua
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/PEVI-AMD-Hackathon-2026.git
+git clone https://github.com/harshsinghbhadoriyaa/PEVI-AMD-Hackathon-2026.git
 cd PEVI-AMD-Hackathon-2026
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run application
-streamlit run app.py
+python -m streamlit run app.py
