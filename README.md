@@ -80,3 +80,6 @@ pip install -r requirements.txt
 
 # Run application
 python -m streamlit run app.py
+
+# Note
+Before doing executing above commands don't forget to install Git.
